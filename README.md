@@ -1,8 +1,7 @@
-# Data-Upload-Script
-A Script to Uploa or Delete data in MongoDB Using CommandLine Interface
+# Data Upload Script
+A Script to Upload or Delete data in MongoDB Using CommandLine Interface
 
-###
-Connect the script to your database
+#### Connect the script to your database
 
 
 Replace the model in the require file appropriately.
