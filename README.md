@@ -8,4 +8,5 @@ Replace the model in the require file appropriately.
 
 `````````````
 const model = require('{%SET_UP_DIR_TO MODEL_SCHEMS%}');
-``````````
+
+`````````````
