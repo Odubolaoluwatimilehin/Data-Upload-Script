@@ -1,7 +1,7 @@
 # Data Upload Script
-A Script to Upload or Delete data in MongoDB Using CommandLine Interface
+A Script to Upload or Delete data in MongoDB using CLI
 
-#### Connect the script to your database
+#### Connect the script to your database.
 
 
 Replace the model in the require file appropriately.
@@ -12,7 +12,7 @@ const model = require('{%SET_UP_DIR_TO MODEL_SCHEMS%}');
 
 `````````````
 
-Read file data
+Read file data.
 
 
 `````````````
